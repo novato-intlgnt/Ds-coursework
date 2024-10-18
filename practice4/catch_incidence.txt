@@ -1,17 +1,51 @@
 Matriz de incidencia (nodos: 4, 3)
-1 0 1 0 
-1 1 0 0 
-0 1 0 0 
-0 0 1 0 
-La matriz fue modificada, guardando en el archivo...
-Matriz de incidencia (nodos: 4, 3)
-1 1 1 0 
-1 0 0 0 
-0 0 0 0 
-0 1 1 0 
-La matriz fue modificada, guardando en el archivo...
-Matriz de incidencia (nodos: 4, 3)
-1 1 0 0 
-1 0 1 0 
-0 0 1 0 
-0 1 0 0 
+1 0 1 
+0 1 0 
+0 1 0 
+0 0 1 
+
+Matriz de incidencia (nodos: 7, 6)
+1 1 0 0 1 0 
+1 0 1 0 0 0 
+0 1 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 1 0 1 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+
+Matriz de incidencia (nodos: 7, 6)
+1 1 0 0 1 0 
+1 0 1 0 0 0 
+0 1 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 1 1 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+
+Matriz de incidencia (nodos: 7, 6)
+1 1 0 0 1 0 
+1 0 1 0 0 0 
+0 1 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 1 1 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+
+Matriz de incidencia (nodos: 7, 6)
+1 1 0 0 1 0 
+1 0 1 0 0 0 
+0 1 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 1 1 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+
+Matriz de incidencia (nodos: 7, 6)
+1 1 0 0 1 0 
+1 0 1 0 0 0 
+0 1 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 1 1 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+

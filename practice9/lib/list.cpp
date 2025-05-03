@@ -143,3 +143,14 @@ void LinkedList::showList() {
   }
   std::cout << "NULL" << std::endl;
 }
+
+std::vector<std::pair<std::string, int>> LinkedList::getNodes() const {
+  std::vector<std::pair<std::string, int>> nodes;
+  Node *current = _root;
+  while (current != nullptr) {
+    nodes.push_back({current->value,
+                     current->weight}); // Solo almacenar los valores necesarios
+    current = current->next;
+  }
+  return nodes;
+}

@@ -1,6 +1,7 @@
 #pragma once
 #include "node.hpp"
 #include <string>
+#include <vector>
 
 class LinkedList {
 private:
@@ -19,6 +20,8 @@ public:
   void deleteNode(std::string value);
 
   void showList();
+
+  std::vector<std::pair<std::string, int>> getNodes() const;
 
   Node *getRoot() const { return _root; };
 };
